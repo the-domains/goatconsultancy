@@ -1,0 +1,28 @@
+name: goatconsultancy
+favicon: null
+layout_spectrum: 0.9121311344206333
+typography_spectrum: 0.6725808028131723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8125239121727645
+  lightness: 0.8351526714395732
+  saturation: 0.8706265613436699
+  rhythmicContrast: 0.5214761814568192
+purpose: []
